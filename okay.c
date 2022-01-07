@@ -4,9 +4,3 @@ int main ()
     12441
 }
 
-local
-remote 
-
-local
-=======
-remote
